@@ -1,5 +1,5 @@
 # dice_project_parna
-#<!DOCTYPE html>  
+ 
 <html lang="en"> 
 
 <head> 
